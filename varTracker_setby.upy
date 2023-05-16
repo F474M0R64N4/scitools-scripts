@@ -8,7 +8,7 @@ def name():
   """
   Required, the name of the graph.
   """
-  return "Variable Tracker"
+  return "Variable setby Tracker"
 
 
 def test_entity(ent):
